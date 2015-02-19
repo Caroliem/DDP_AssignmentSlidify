@@ -47,6 +47,13 @@ The shiny [applicaton](https://caroliem.shinyapps.io/Shiny/) calculates an amoun
 - Histogram showing the total wealth within the selected age group
 - Within the histogram a line is plotted showing the currrent wealth of the user. 
 
+---  
+## Sample application output
+Based on your age your wealth should be: **48.000 euro**
+
+Example plot (embedded R code generates random data and creates histogram).
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
+
 --- &radio
 ## Interactive slide
 
