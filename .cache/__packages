@@ -1,0 +1,13 @@
+base
+lattice
+ggplot2
+caret
+shiny
+slidify
+knitr
+slidifyLibraries
+devtools
+randomForest
+XML
+rpart
+googleVis
