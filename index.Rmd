@@ -47,25 +47,6 @@ The shiny [applicaton](https://caroliem.shinyapps.io/Shiny/) calculates an amoun
 - Histogram showing the total wealth within the selected age group
 - Within the histogram a line is plotted showing the currrent wealth of the user. 
 
----
-## Interactive slide
-
-This is a fake implementation of the shiny application pitched in this presentation. 
-Your wealth will be calculated based on your age, but the calculation is done by multiplying the age with 1500 euro"
-```{r opts.label = 'shiny'}
-library(shiny)
-slidifyUI(
-  sidebarPanel(
-     numericInput("Age", 
-        label = h3("Select Age"), 
-        value = 20)), 
-   mainPanel(
-    textOutput("text3"),
-    strong(textOutput("text2"))
-  )
-)
-````
-
 --- &radio
 ## Interactive slide
 

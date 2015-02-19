@@ -11,3 +11,5 @@ randomForest
 XML
 rpart
 googleVis
+bitops
+RCurl
